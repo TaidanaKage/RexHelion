@@ -1,4 +1,4 @@
-[Rex Helion](../../) - [Changelog](../)
+\ [Rex Helion](../../) \ [Changelog](../)
 
 <br>
 

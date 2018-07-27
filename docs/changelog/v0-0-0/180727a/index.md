@@ -1,4 +1,4 @@
-[Rex Helion](../../../) - [Changelog](../../) - [v0.0.0](../)
+\ [Rex Helion](../../../) \ [Changelog](../../) \ [v0.0.0](../)
 
 <br>
 
