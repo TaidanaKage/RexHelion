@@ -2,6 +2,10 @@
 
 ## v0.0.0-current
 
+n/a
+
+## v0.0.0-180727a
+
 ### Launcher
 
 - Default Unity launcher (no customization)
