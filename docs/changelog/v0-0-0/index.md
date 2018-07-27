@@ -1,4 +1,4 @@
-[Rex Helion](https://taidanakage.github.io/RexHelion/) - [Changelog](../)
+[Rex Helion](../../) - [Changelog](../)
 
 # Rex Helion v0.0.0
 
