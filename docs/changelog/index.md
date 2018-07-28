@@ -8,7 +8,10 @@
 
 ## v0.0.0-current
 
-- n/a
+### Main menu
+
+- Refactored some existing code
+- Play button should be disabled (for now) [#48](https://github.com/TaidanaKage/RexHelion/issues/48)
 
 <br>
 
