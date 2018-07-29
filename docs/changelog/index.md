@@ -16,6 +16,8 @@
 ### Main menu
 
 - Current player profile properly connected to the current Windows user [#49](https://github.com/TaidanaKage/RexHelion/issues/49)
+- Ruleset and World drop-down boxes are empty and disabled (for now)
+- Adjusted font size for all buttons and drop-down boxes
 
 <br>
 
