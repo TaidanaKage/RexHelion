@@ -8,7 +8,10 @@
 
 ## v0.0.0-current
 
-- n/a
+### Main menu
+
+- Ruleset section properly connected to the Metaverse [#50](https://github.com/TaidanaKage/RexHelion/issues/50)
+  - only one empty (default) ruleset exists for now
 
 <br>
 
