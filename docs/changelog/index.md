@@ -12,6 +12,10 @@
 
 - Added Metaverse check [#17](https://github.com/TaidanaKage/RexHelion/issues/17)
   - If the Metaverse doesn't exist yet (the first game run on this machine / this Windows user), initialize it.
+  
+### Main menu
+
+- Current player profile properly connected to the current Windows user [#49](https://github.com/TaidanaKage/RexHelion/issues/49)
 
 <br>
 
