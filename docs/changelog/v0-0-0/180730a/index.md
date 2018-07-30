@@ -26,3 +26,7 @@
   - Width (label, input field)
   - Height (label, input field)
   - Generate button (not functional yet)
+
+<br>
+<br>
+<br>

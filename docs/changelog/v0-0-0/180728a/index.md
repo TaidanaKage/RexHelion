@@ -24,3 +24,7 @@
   - About button [#29](https://github.com/TaidanaKage/RexHelion/issues/29)
   - Settings button [#30](https://github.com/TaidanaKage/RexHelion/issues/30)
   - Info area [#31](https://github.com/TaidanaKage/RexHelion/issues/31)
+
+<br>
+<br>
+<br>

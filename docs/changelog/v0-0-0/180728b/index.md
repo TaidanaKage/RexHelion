@@ -29,3 +29,7 @@
   - About [#42](https://github.com/TaidanaKage/RexHelion/issues/42)
   - Credits [#44](https://github.com/TaidanaKage/RexHelion/issues/44)
 - Fixed font for all buttons and drop-downs
+
+<br>
+<br>
+<br>

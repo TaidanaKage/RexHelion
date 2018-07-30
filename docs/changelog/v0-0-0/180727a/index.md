@@ -31,3 +31,7 @@
 - Added a Quit button [#12](https://github.com/TaidanaKage/RexHelion/issues/12)
 - Added a handler for the ESC key (to quit the game) [#13](https://github.com/TaidanaKage/RexHelion/issues/13)
 - Added slow rotation of the skybox [#15](https://github.com/TaidanaKage/RexHelion/issues/15)
+
+<br>
+<br>
+<br>
