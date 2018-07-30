@@ -12,6 +12,7 @@
 
 Builds for this version:
 
+- [v0.0.0-180730a](https://taidanakage.github.io/RexHelion/changelog/v0-0-0/180730a/)
 - [v0.0.0-180729a](https://taidanakage.github.io/RexHelion/changelog/v0-0-0/180729a/)
 - [v0.0.0-180728b](https://taidanakage.github.io/RexHelion/changelog/v0-0-0/180728b/)
 - [v0.0.0-180728a](https://taidanakage.github.io/RexHelion/changelog/v0-0-0/180728a/)
