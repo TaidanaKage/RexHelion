@@ -8,7 +8,9 @@
 
 ## v0.0.0-current
 
-- n/a
+### Main menu
+
+- Play button is enabled as soon as a World is selected [#58](https://github.com/TaidanaKage/RexHelion/issues/58)
   
 <br>
 
