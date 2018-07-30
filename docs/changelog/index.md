@@ -14,6 +14,10 @@
   - only one empty (default) ruleset exists for now
 - Worlds - added a "New world" button [#53](https://github.com/TaidanaKage/RexHelion/issues/53)
   - it opens a new section "New world generator"
+- Current world section properly connected to the Metaverse [#51](https://github.com/TaidanaKage/RexHelion/issues/51)
+- Implement a mechanism to store the last used Ruleset  [#56](https://github.com/TaidanaKage/RexHelion/issues/56)
+- Implement a mechanism to store the last used World  [#57](https://github.com/TaidanaKage/RexHelion/issues/57)
+- Refactoring
   
 ### World generator
 - Added way to return back to the Worlds section (Back button, ESC key)
