@@ -16,7 +16,13 @@
   - it opens a new section "New world generator"
   
 ### World generator
-- added way to return back to the Worlds section (Back button, ESC key)
+- Added way to return back to the Worlds section (Back button, ESC key)
+- Added basic controls (temporary) [#54](https://github.com/TaidanaKage/RexHelion/issues/54)
+  - Name (label, input field)
+  - Width (label, input field)
+  - Height (label, input field)
+  - Generate button (not functional yet)
+
   
 <br>
 
