@@ -8,9 +8,19 @@
 
 ## v0.0.0-current
 
+### General
+
+- Switched from Mono.Data.Sqlite to System.Data.SQLite (missing features)
+
 ### Main menu
 
 - Play button is enabled as soon as a World is selected [#58](https://github.com/TaidanaKage/RexHelion/issues/58)
+
+### Worlds
+
+- Implemented the very basic world generation [#55](https://github.com/TaidanaKage/RexHelion/issues/55)
+  - parameters: name, width, height
+  - only raw basic terrain (primary layers, no geological activity yet)
   
 <br>
 
