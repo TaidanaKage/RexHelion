@@ -13,6 +13,7 @@ The game is currently in development.
 - [About](https://taidanakage.github.io/RexHelion/about/)
 - [FAQ](https://taidanakage.github.io/RexHelion/faq/)
 - [Changelog](https://taidanakage.github.io/RexHelion/changelog/)
+- [Roadmap](https://github.com/TaidanaKage/RexHelion/milestones?direction=asc&sort=due_date)
 
 <br>
 <br>
