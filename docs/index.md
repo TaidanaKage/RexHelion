@@ -6,7 +6,7 @@
 
 <br>
 
-The game is currently in development.
+The game is currently in development (by [Taidana Kage](https://taidanakage.github.io).
 
 <br>
 
