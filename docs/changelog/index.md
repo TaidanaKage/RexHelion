@@ -11,7 +11,7 @@
 ### Planet
 
 - Added new (empty) scene for the future Planet rendering and gameplay [#62](https://github.com/TaidanaKage/RexHelion/issues/62)
-  - is loaded after pressing the Play button (Main Menu)
+  - loaded after pressing the Play button (Main Menu)
   - provides a way to get back to the Main Menu (Back button, ESC key)
   
 <br>
