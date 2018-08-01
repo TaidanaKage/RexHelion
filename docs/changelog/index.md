@@ -8,7 +8,11 @@
 
 ## v0.0.0-current
 
-- n/a
+### Planet
+
+- Tile size adjusted to 3.5 m [#65](https://github.com/TaidanaKage/RexHelion/issues/65)
+- Basic (not smooth) player rotation implemented (QE) [#66](https://github.com/TaidanaKage/RexHelion/issues/66)
+- Basic (no checks, not smooth) player movement implemented (WSAD) [#67](https://github.com/TaidanaKage/RexHelion/issues/67)
   
 <br>
 
