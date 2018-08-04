@@ -8,7 +8,12 @@
 
 ## v0.0.0-current
 
-- n/a
+### Server
+
+- Implemented basic turn-based engine
+- Added support for parties, characters, player
+- Implemented basic Wait action
+- Implemented basic Walk action
   
 <br>
 
