@@ -8,15 +8,14 @@
 
 ## v0.0.0-current
 
-### Client
-
-- A zombie test (hardcoded).
+- n/a
   
 <br>
 
 ## Previous versions
 
 - [v0.0.0](v0-0-0/)
+  - [180805b](v0-0-0/180805b/)
   - [180805a](v0-0-0/180805a/)
   - [180801b](v0-0-0/180801b/)
   - [180801a](v0-0-0/180801a/)
