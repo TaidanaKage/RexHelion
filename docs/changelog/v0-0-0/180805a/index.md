@@ -16,8 +16,7 @@
 
 - Implemented basic pseudo turn-based engine (time advancement)
 - Added support for parties, characters, player
-- Implemented basic Wait action
-- Implemented basic Walk action
+- Implemented basic actions: Wait, Walk, Turn
 - Persistence (world status)
 
 ### Client
