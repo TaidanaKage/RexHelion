@@ -8,7 +8,9 @@
 
 ## v0.0.0-current
 
-- n/a
+### Client
+
+- A zombie test (hardcoded).
   
 <br>
 
