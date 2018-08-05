@@ -8,6 +8,10 @@
 
 ## v0.0.0-current
 
+### Unity
+
+- Updated from 2018.2.1f1 to 2018.2.2f1
+
 ### Server
 
 - Implemented basic turn-based engine
