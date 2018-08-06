@@ -8,7 +8,9 @@
 
 ## v0.0.0-current
 
-- n/a
+### Client
+
+- Server resources are properly freed upon returing to the Main menu
   
 <br>
 
