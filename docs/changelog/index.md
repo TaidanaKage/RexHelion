@@ -11,6 +11,11 @@
 ### Client
 
 - Server resources are properly freed upon returing to the Main menu
+
+### Server
+
+- Refactoring
+- Completely rewritten the backend code (Gameplay, Common, Metaverse)
   
 <br>
 
