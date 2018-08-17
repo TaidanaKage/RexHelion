@@ -8,24 +8,14 @@
 
 ## v0.0.0-current
 
-### Unity ###
-
-- Updated from 
-
-### Client 2018.2.2f1 to 2018.2.3f1
-
-- Server resources are properly freed upon returing to the Main menu
-
-### Server
-
-- Refactoring
-- Completely rewritten the backend code (Gameplay, Common, Metaverse)
+- n/a
   
 <br>
 
 ## Previous versions
 
 - [v0.0.0](v0-0-0/)
+  - [180817a](v0-0-0/180817a/)
   - [180805b](v0-0-0/180805b/)
   - [180805a](v0-0-0/180805a/)
   - [180801b](v0-0-0/180801b/)
