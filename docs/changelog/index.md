@@ -8,6 +8,10 @@
 
 ## v0.0.0-current
 
+### Client ###
+
+- Smooth rotation (of the party)
+
 ### Unity ###
 
 - Updated from 2018.2.3f1 to 2018.2.4f1
