@@ -10,9 +10,9 @@
 
 ### Unity ###
 
-- Updated from 
+- Updated from 2018.2.2f1 to 2018.2.3f1
 
-### Client 2018.2.2f1 to 2018.2.3f1
+### Client
 
 - Server resources are properly freed upon returing to the Main menu
 
