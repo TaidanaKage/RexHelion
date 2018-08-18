@@ -8,19 +8,14 @@
 
 ## v0.0.0-current
 
-### Client ###
-
-- Smooth rotation (of the party)
-
-### Unity ###
-
-- Updated from 2018.2.3f1 to 2018.2.4f1
+- n/a
   
 <br>
 
 ## Previous versions
 
 - [v0.0.0](v0-0-0/)
+  - [180818a](v0-0-0/180818a/)
   - [180817a](v0-0-0/180817a/)
   - [180805b](v0-0-0/180805b/)
   - [180805a](v0-0-0/180805a/)
