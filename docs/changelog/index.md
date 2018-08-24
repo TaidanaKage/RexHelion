@@ -11,6 +11,12 @@
 ### Unity ###
 
 - Updated from 2018.2.4f1 to 2018.2.5f1
+
+### World generation ###
+
+- Basic terrain noise (more realistic surface)
+- Randomized spawning position for the party
+- Fixed spawning height of the party
   
 <br>
 
