@@ -8,21 +8,14 @@
 
 ## v0.0.0-current
 
-### Unity ###
-
-- Updated from 2018.2.4f1 to 2018.2.5f1
-
-### World generation ###
-
-- Basic terrain noise (more realistic surface)
-- Randomized spawning position for the party
-- Fixed spawning height of the party
+- n/a
   
 <br>
 
 ## Previous versions
 
 - [v0.0.0](v0-0-0/)
+  - [180824a](v0-0-0/180824a/)
   - [180818b](v0-0-0/180818b/)
   - [180818a](v0-0-0/180818a/)
   - [180817a](v0-0-0/180817a/)
