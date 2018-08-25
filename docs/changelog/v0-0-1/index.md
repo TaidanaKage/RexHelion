@@ -6,7 +6,7 @@
 
 <br>
 
-[YouTube playlist](https://www.youtube.com/playlist?list=PLEx1Bhf5aKY0uM8EZYeR6o4hc5RPjLbHr)
+[YouTube playlist](https://www.youtube.com/playlist?list=PLEx1Bhf5aKY0sQ0Tm858rOt6ILy5Ij9iP)
 
 <br>
 
